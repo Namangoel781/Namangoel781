@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Namangoel781
 - 👀 I’m interested in Website designing and Website development.
-- 🌱 I’m currently learning Java Script and Node.js .
+- 🌱 I’m currently learning Java Script. Node.js and Django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - namangoel781@gmail.com
 
