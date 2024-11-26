@@ -2,7 +2,7 @@
 - 👀 I’m interested in Website designing and Website development.
 - 🌱 I’m currently learning Java Script. Node.js and Django.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - namangoel781@gmail.com
+- 📫 How to reach me - dev.naman555@gmail.com
 
 <!---
 Namangoel781/Namangoel781 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
