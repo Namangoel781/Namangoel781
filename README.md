@@ -1,7 +1,5 @@
 # 💫 About Me:
   
-🔭 **I’m currently working on:**  
-Building a SecondBrain web app—a social notes platform for storing social media content.  
 
 👯 **I’m looking to collaborate on:**  
 MERN stack applications, AI-powered platforms, and cryptocurrency-related projects.  
